@@ -1,6 +1,5 @@
 # Bogazici Data-Camp | Global AI Hub - 2020
 
-## Time Plan
 > **".ipynb"** dosyaları github tarafından servis edilirken her zaman açılmayabilir. Bir süre bekleyip reload tuşuna bastığınızda dosyayı görüntüleyebilirsiniz.
 ### Day 1 | Introduction:
 
